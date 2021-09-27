@@ -1,5 +1,5 @@
 ﻿# Traffic_Light_Color_Recognize
-Applied Hough circle transform to localize the traffic signal and recognize the color  
+Apply Hough circle transform to localize the traffic signal and recognize the color  
   
 ## Environment
 Python>=3.9.1  
